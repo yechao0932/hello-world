@@ -1,2 +1,5 @@
 # hello-world
-first
+
+Hi humans!
+
+I am learning coding!
